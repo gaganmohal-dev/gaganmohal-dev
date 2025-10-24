@@ -11,7 +11,8 @@
 
 <br><br>
 
-💻 Full Stack Developer  
+<h3>💻 Full Stack Developer</h4>  
+
 🎓 MCA Student | Learning MERN Stack  
 🚀 Building projects that solve real problems  
 
